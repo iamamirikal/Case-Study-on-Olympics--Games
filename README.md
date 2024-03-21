@@ -1,2 +1,1 @@
-# Case-Study-on-Olympics--Games
-I conducted a comprehensive case study on a dataset that contained information about all Olympic games played from Athens 1896 to Rio 2016. The dataset includes two main tables: `olympics_history` and `noc_regions`.
+Using a dataset that included details about every Olympic game played from Athens 1896 to Rio 2016, I carried out a thorough case study. The two primary tables in the dataset are `noc_regions} and `olympics_history}.
